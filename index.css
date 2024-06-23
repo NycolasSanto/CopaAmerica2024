@@ -17,6 +17,65 @@ p{
     width:60px;
     height:30px;
 }
+.fundocopa{
+    position:absolute;
+    top:0px;
+    width:400px;
+    height:600px;
+    background-image: url("fundocopa.png");
+    background-size: cover;
+}
+.logo{
+    width:90%;
+    height:25%;
+    background-image: url("bannerca.png");
+    background-size: cover;
+}
+.logo1{
+    width:360px;
+    height:125px;
+    
+}
+
+.grupos{
+    position:absolute;
+    left:5%;
+    width:340px;
+    height:320px;
+    background-image: url("grupos.png");
+    background-size: cover;
+}
+
+.clickable-area {
+    position: absolute;
+    cursor: pointer;
+}
+/* Exemplo de areas clicaveis*/
+.area1 {
+    top: 14px;
+    left: 44px;
+    width: 86px;
+    height:26px;
+}
+.area2 {
+    top: 14px; 
+    left: 220px; 
+    width: 86px;
+    height:26px;
+}
+.area3 {
+    top: 170px;
+    left: 44px; 
+    width: 86px;
+    height:26px;
+}
+.area4 {
+    top: 170px;
+    left: 220px; 
+    width: 86px;
+    height:26px;
+}
+
 .botao{
     width:22px;
     height:16px;
@@ -37,12 +96,13 @@ p{
     width: 360px;
     height: 950px;
     position: absolute;
-    top: 95px;
+    top:105px;
     left: 0px;
     font-size: 12px;
-    background-color: blue;;
-    color: #dee0e9;
-    font-family: Inter;
+    color: white;
+    background-image: url("fundocopa.png");
+    background-size: cover;
+    font-family: inter;
 }
 .grupoa{
     display: flex;
@@ -50,10 +110,7 @@ p{
     justify-content:space-evenly;
     width:360px;
     height:700px;
-    background-color: blue;
-    
-
-}
+ 
 .letreiro{
     width:200px;
     height:50px;
