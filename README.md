@@ -14,4 +14,8 @@
 ![image](https://github.com/Nfelizola/CopaAmerica2024/blob/main/9.png)
 ![image](https://github.com/Nfelizola/CopaAmerica2024/blob/main/10.png)
 
+# Ajustar Parâmetros para o ranking e detalhes de grupo da Copa América. 
+
+
+
 
